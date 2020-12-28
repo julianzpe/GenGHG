@@ -6,7 +6,7 @@ This work has been developed as part of a M.A.Sc. thesis at the University of To
 ![GenGHG Banner](https://www.dropbox.com/s/5lsjhh7ih4tbfdg/2020.12.28%20Github%20Banner%202.png?raw=1)
 
 
-![GenGHG Banner 2](https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1)
+![GenGHG Banner 2](https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1){:height="50%" width="50%"}
 
 # How to use GenGHG?
 Make sure you download and install all dependencies and third-party packages 
