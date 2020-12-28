@@ -8,6 +8,8 @@ This work has been developed as part of a M.A.Sc. thesis in Civil Engineering at
 # How to use GenGHG?
 The main Dynamo graph is [20200817_GenGHG_457_core.dyn](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn). Make sure you download and install all [dependencies](https://github.com/julianzpe/GenGHG#dependencies), [third-party packages](https://github.com/julianzpe/GenGHG#packages-list), and [custom nodes](https://github.com/julianzpe/GenGHG#custom-nodes). Also, make sure your computer recognizes the path of the following files for initial testing. For methodology questions please refer to the project's public thesis or publications (search in  [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction) and look for Julian Zaraza as main author).
 
+* The following is a screen capture of the entire GenGHG Dynamo graph broken down by functionality. Please note that the Geometry System step is condensed on a single custom node which is available to download in the [custom nodes section](https://github.com/julianzpe/GenGHG#custom-nodes) of this repository.
+
 ![GenGHG Full Dynamo Graph](https://www.dropbox.com/s/jd1geft4jgi0p82/Dynamo%20Full%20Graph.png?raw=1)
 
 # Required files
