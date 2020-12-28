@@ -34,6 +34,12 @@ Contain the buildings, landmarks, parks, topography, and water instances in mesh
 # Dependencies
 ## Dynamo 2.6.0 (dynamobim.org)
 ### Packages: 
+Copy all packages into your local Dynamo installation or download each of them directly from package manager (make sure version does not change). 
+
+* Typical local directory C:\<user>\AppData\Roaming\Dynamo\Dynamo Core\2.<version>\packages. 
+* Download from [0. Packages and Installers](https://github.com/julianzpe/GenGHG/tree/master/0.%20Packages%20and%20Installers)
+  
+#### Packages list
 - LunchBox for Dynamo (v2018.7.6)
 - Dynamo Text (v2.0.1)
 - MeshToolkit (v2.0.1)
@@ -42,8 +48,9 @@ Contain the buildings, landmarks, parks, topography, and water instances in mesh
 - Ampersand (v2019.12.31)
 - Clockwork for Dynamo 2.x (v2.3.0)
 - Topologic (v1.0.0)
+
 ### Custom Nodes:
-- [GenGHG_GeometrySYS_2.dyf](GenGHG/20200817_GenGHG_457_core.dyn)
+- [GenGHG_GeometrySYS_2.dyf](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn)
 
 <p align="center">
 <img src="https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1" width=50% height=50%>
