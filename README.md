@@ -22,11 +22,7 @@ Make sure you download and install all dependencies and third-party packages
 ### Custom Nodes:
 - GenGHG_GeometrySYS_2.dyf
 
-<img src="https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1" width=50% height=50%>
-
-![GenGHG GIF](https://www.dropbox.com/s/hegsbm4daqm42ts/20200818_GenGHG_core.gif?raw=1)
-
-![GenGHG GIF2](https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif)
+<img src="https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1" width=50% height=50%> ![GenGHG GIF2](https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif)
 
 
 
