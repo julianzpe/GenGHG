@@ -6,7 +6,13 @@ This work has been developed as part of a M.A.Sc. thesis at the University of To
 ![GenGHG Banner](https://www.dropbox.com/s/5lsjhh7ih4tbfdg/2020.12.28%20Github%20Banner%202.png?raw=1)
 
 # How to use GenGHG?
-Make sure you download and install all dependencies and third-party packages 
+Make sure you download and install all dependencies and third-party packages. Also, make sure your computer recognizes the path of the following files for initial testing:
+- Site Conditions 
+- CSV Imports:
+-- x.csv, y.csv, z.csv: X,Y,Z coordinates for target points for views analysis
+-- x_mass.csv, y_mass.csv, z_mass.csv: X,Y,Z coordintes for building site footprint 
+-- lca_factors.csv: Structural and envelope LCA factors for embodied GHG emissions calculation
+-- material_estimates.csv: Normalized estimates for ammounts of concrete (in cubic meters/volume of building space in cubic meters) and rebar (in metric tons or Mg per Mg of concrete). Normalized per cubic meter of concrete of concrete (Mgcon), and cubic meters of building volume (conm3).
 
 <p align="center">
   <img src="https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif">
