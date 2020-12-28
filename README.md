@@ -10,7 +10,7 @@ Make sure you download and install all dependencies and third-party packages
 
 <p align="center">
   <br><br>
-  ![GenGHG GIF2](https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif)
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif">
 </p>
 
 # Dependencies
