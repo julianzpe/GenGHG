@@ -10,6 +10,7 @@ The main Dynamo graph is [20200817_GenGHG_457_core.dyn](https://github.com/julia
 
 # Required files
 ## Site Conditions Files
+Download from [1, Site Conditions](https://github.com/julianzpe/GenGHG/tree/master/1.%20Site%20Conditions)
 Contain the buildings, landmarks, parks, topography, and water instances in mesh format (.OBJ) that describe the surrounding conditions of the site. The listed .obj files were used for the case study described in the original study. Replace them with your study's information following the same order and categorization. All items are used exclusively for visualization purposes with the exception of 20200312_Massings_SemiDetailed.obj which is used for intersection calculations (views analysis). 
 - 20200228_Site-Conditions_Landmarks.obj
 - 20200228_Site-Conditions_Parks_1.obj
