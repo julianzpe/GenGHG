@@ -3,7 +3,7 @@ Generative Design Tool to Reduce Embodied GHG Emissions in High-Rise Residential
 This work has been developed as part of a M.A.Sc. thesis at the University of Toronto.
 
 
-![GenGHG Banner](https://previews.dropbox.com/p/thumb/ABBOMeEr81-56jdjfNDn4c656-nvqjIcFpHKKnXzxnr8ddw77wibQwMfbTuB8ANb4GOcxvCM58tXbXdBBLbfiPHZ2aYc5gMuwMdAqeWFjeWAvlDDACr8wtRbGyMX3QJzbJVuTn8-OGXuBU4q5m0MlFc8fMyhN58Gfm2eSHig4Zo_UnRETHwxtCcYWPPMKGjK8w_IlR4GrSHkeF2-89dC2TdfXFsCCx79_tJEsgOw425oP4A9kw3k4SMLWmL4DtMmVwsItkhIRmcUdMTytbk_naQgpXPUQSziMWFeUIjQTcYIjXkRzIy9v0admG03bzYocKCCWB4t3MgBilUzxJ8Yelgm4kTzuQlI7jOvb0njc4BaEQ/p.png?fv_content=true&size_mode=5)
+![GenGHG Banner](https://www.dropbox.com/s/5lsjhh7ih4tbfdg/2020.12.28%20Github%20Banner%202.png?raw=1)
 
 
 # How to use GenGHG?
