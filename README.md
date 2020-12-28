@@ -8,6 +8,8 @@ This work has been developed as part of a M.A.Sc. thesis at the University of To
 # How to use GenGHG?
 Make sure you download and install all dependencies and third-party packages 
 
+ ![GenGHG GIF2](https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif)
+
 # Dependencies
 ## Dynamo 2.6.0 (dynamobim.org)
 ### Packages: 
@@ -22,7 +24,7 @@ Make sure you download and install all dependencies and third-party packages
 ### Custom Nodes:
 - GenGHG_GeometrySYS_2.dyf
 
-<img src="https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1" width=50% height=50%> ![GenGHG GIF2](https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif)
+<img src="https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1" width=50% height=50%>
 
 
 
