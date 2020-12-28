@@ -6,7 +6,7 @@ This work has been developed as part of a M.A.Sc. thesis in Civil Engineering at
 ![GenGHG Banner](https://www.dropbox.com/s/5lsjhh7ih4tbfdg/2020.12.28%20Github%20Banner%202.png?raw=1)
 
 # How to use GenGHG?
-Make sure you download and install all dependencies and third-party packages. Also, make sure your computer recognizes the path of the following files for initial testing. For methodology questions please refer to the project's public thesis or publications (search in  [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction) and look for Julian Zaraza as main author).
+The main Dynamo graph is [20200817_GenGHG_457_core.dyn](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn). Make sure you download and install all dependencies and third-party packages. Also, make sure your computer recognizes the path of the following files for initial testing. For methodology questions please refer to the project's public thesis or publications (search in  [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction) and look for Julian Zaraza as main author).
 
 # Required files
 ## Site Conditions Files
