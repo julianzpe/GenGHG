@@ -9,10 +9,6 @@ This work has been developed as part of a M.A.Sc. thesis at the University of To
 Make sure you download and install all dependencies and third-party packages 
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
   <br><br>
   ![GenGHG GIF2](https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif)
 </p>
