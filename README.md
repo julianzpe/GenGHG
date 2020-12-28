@@ -25,7 +25,7 @@ Contain the buildings, landmarks, parks, topography, and water instances in mesh
 
 - lca_factors.csv: Structural and envelope LCA factors for embodied GHG emissions calculation
 
-- material_estimates.csv: Normalized estimates for ammounts of concrete (in cubic meters/volume of building space in cubic meters) and rebar (in metric tons or Mg per Mg of concrete). Normalized per cubic meter of concrete of concrete (Mgcon), and cubic meters of building volume (conm3).
+- material_estimates.csv: Normalized estimates for concrete (in cubic meters/volume of building space in cubic meters) and rebar (in metric tons or Mg per Mg of concrete).
 
 <p align="center">
   <img src="https://www.dropbox.com/s/p9pl0fazjom6a2v/2020.12.28%20GenGHG%20GIF.gif?raw=1">
