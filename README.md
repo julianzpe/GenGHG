@@ -1,5 +1,5 @@
 # GenGHG
-Generative Design Tool to Reduce Embodied GHG Emissions in High-Rise Residential Buildings
+Generative Design Tool to Reduce Embodied GHG Emissions in High-Rise Residential Buildings.
 This work has been developed as part of a M.A.Sc. thesis at the University of Toronto.
 
 # How to use GenGHG?
