@@ -1,7 +1,6 @@
 # GenGHG
 Generative Design Tool to Reduce Embodied GHG Emissions in High-Rise Residential Buildings.
-This work was developed as part of a M.A.Sc. thesis in Civil Engineering at the University of Toronto.
-
+This work was developed as part of a M.A.Sc. thesis in Civil Engineering at the University of Toronto by Julian Zaraza. The thesis was supervised by Prof. Daniel Posen and Prof. Brenda McCabe. The author acknowledges thes support of EllisDon, BASF Canada and WSP, as well as matching funds from the Natural Sciences Research Council of Canada (CRDPJ 508960) and the Ontario Centres of Excellence (TargetGHG 27943).
 
 ![GenGHG Banner](https://www.dropbox.com/s/5lsjhh7ih4tbfdg/2020.12.28%20Github%20Banner%202.png?raw=1)
 
