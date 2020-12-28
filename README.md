@@ -28,7 +28,7 @@ Contain the buildings, landmarks, parks, topography, and water instances in mesh
 - material_estimates.csv: Normalized estimates for ammounts of concrete (in cubic meters/volume of building space in cubic meters) and rebar (in metric tons or Mg per Mg of concrete). Normalized per cubic meter of concrete of concrete (Mgcon), and cubic meters of building volume (conm3).
 
 <p align="center">
-  <img src="https://www.dropbox.com/s/p9pl0fazjom6a2v/2020.12.28%20GenGHG%20GIF.gif?dl=0">
+  <img src="https://www.dropbox.com/s/p9pl0fazjom6a2v/2020.12.28%20GenGHG%20GIF.gif?raw=1">
 </p>
 
 # Dependencies
