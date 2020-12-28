@@ -19,6 +19,7 @@ Contain the buildings, landmarks, parks, topography, and water instances in mesh
 - 20200405_Site-Conditions_Massings_5.obj: Contains detailed mesh of surrounding buildings for visualization purposes only
 
 ## CSV Imports
+Download from [2. CSV Imports](https://github.com/julianzpe/GenGHG/tree/master/2.%20CSV%20Imports)
 - x.csv, y.csv, z.csv: X,Y,Z coordinates for target points for views analysis
 
 - x_mass.csv, y_mass.csv, z_mass.csv: X,Y,Z coordintes for building site footprint 
@@ -32,8 +33,12 @@ Contain the buildings, landmarks, parks, topography, and water instances in mesh
 </p>
 
 # Dependencies
-## Dynamo 2.6.0 (dynamobim.org)
-### Packages: 
+All the following items are required for running GenGHG. Newer versions might work but full functionality is not ensured. There are some known issues with using newer versions of Refinery, such as Generative Design for Revit. These are easily corrected by changing all Refinery 0.62.2 nodes by "Generative Design for Revit" nodes, which are named very simlarly.
+
+### Dynamo 2.6.0 
+Download from [Dynamo's site](https://www.dynamobim.org)
+
+### Packages
 Copy all packages into your local Dynamo installation or download each of them directly from package manager (make sure version does not change). 
 
 * Typical local directory C:\<user>\AppData\Roaming\Dynamo\Dynamo Core\2.<version>\packages. 
@@ -50,7 +55,7 @@ Copy all packages into your local Dynamo installation or download each of them d
 - Topologic (v1.0.0)
 
 ### Custom Nodes:
-- [GenGHG_GeometrySYS_2.dyf](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn)
+- Download from [GenGHG_GeometrySYS_2.dyf](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn)
 
 <p align="center">
 <img src="https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1" width=50% height=50%>
