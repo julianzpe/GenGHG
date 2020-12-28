@@ -10,7 +10,7 @@ Make sure you download and install all dependencies and third-party packages. Al
 
 # Required files
 ## Site Conditions Files
-Contain the buildings, landmarks, parks, topography, and water instances in mesh format (.OBJ) that describe the surrounding conditions of the site. The listed .obj files were used for the case study described in the original study. Replace them with your study's information following the same order and categorization. The first four items are used exclusively for visualization purposes, the last two are used for calculations. 
+Contain the buildings, landmarks, parks, topography, and water instances in mesh format (.OBJ) that describe the surrounding conditions of the site. The listed .obj files were used for the case study described in the original study. Replace them with your study's information following the same order and categorization. All items are used exclusively for visualization purposes with the exception of 20200312_Massings_SemiDetailed.obj which is used for intersection calculations (views analysis). 
 - 20200228_Site-Conditions_Landmarks.obj
 - 20200228_Site-Conditions_Parks_1.obj
 - 20200228_Site-Conditions_Topo_1.obj
