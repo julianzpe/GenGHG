@@ -9,10 +9,8 @@ This work has been developed as part of a M.A.Sc. thesis at the University of To
 Make sure you download and install all dependencies and third-party packages 
 
 <p align="center">
-  <br><br>
   <img src="https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif">
 </p>
-
 # Dependencies
 ## Dynamo 2.6.0 (dynamobim.org)
 ### Packages: 
@@ -26,8 +24,8 @@ Make sure you download and install all dependencies and third-party packages
 - Topologic (v1.0.0)
 ### Custom Nodes:
 - GenGHG_GeometrySYS_2.dyf
-
+<p align="center">
 <img src="https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1" width=50% height=50%>
-
+</p>
 
 
