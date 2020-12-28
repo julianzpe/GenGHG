@@ -8,7 +8,14 @@ This work has been developed as part of a M.A.Sc. thesis at the University of To
 # How to use GenGHG?
 Make sure you download and install all dependencies and third-party packages 
 
- ![GenGHG GIF2](https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif)
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  ![GenGHG GIF2](https://im3.ezgif.com/tmp/ezgif-3-a2ebc8af039f.gif)
+</p>
 
 # Dependencies
 ## Dynamo 2.6.0 (dynamobim.org)
