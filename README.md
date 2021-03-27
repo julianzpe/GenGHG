@@ -67,7 +67,7 @@ Copy all packages into your local Dynamo installation or download each of them d
 - Topologic (v1.0.0)
 
 ### Design Generation Module (Custom Node):
-- Download from [GenGHG_GeometrySYS_2.dyf](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn)
+- Download from [GenGHG_GeometrySYS_2.dyf](https://github.com/julianzpe/GenGHG/blob/master/GenGHG_GeometrySYS_2.dyf)
 
 This study proposes a novel geometry system for the generation of realistic, modern-looking, tall residential building shapes. The steps of the system are described in the paper published in the journal Autom. in Construction. The steps are a series of geometric operations that through translation, intersection, subdivision, and extrusion, are able to generate a building shape in one iteration. The steps are the result of several experimental tests for achieving a desired level of aesthetics and geometric variability within the shapes produced, and are based on the conceptual design assumptions. These assumptions are critical to frame the structure of the geometry system. These include architectural and geometric considerations that dictate the sections that are fixed and the ones that vary. For instance, it is provided that the tower shape may vary in geometry as long as it does so within the site boundary. In contrast, the podium and underground section are assumed to preserve the shape of the site, as this is common practice in downtown Toronto high-rise buildings since developers are bounded to maximize lot use. 
 
