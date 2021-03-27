@@ -36,8 +36,12 @@ Download from [2. CSV Imports](https://github.com/julianzpe/GenGHG/tree/master/2
 
 - material_estimates.csv: Normalized estimates for concrete (in cubic meters/volume of building space in cubic meters) and rebar (in metric tons or Mg per Mg of concrete).
 
-<p align="center">
+<p align="left">
   <img src="https://julianzaraza.page.link/genghg-sitecond-gif">
+</p>
+
+<p align="right">
+<img src="https://julianzaraza.page.link/genghg-design-generation" width=50% height=50%>
 </p>
 
 # Dependencies
@@ -65,12 +69,8 @@ Copy all packages into your local Dynamo installation or download each of them d
 ### Custom Nodes:
 - Download from [GenGHG_GeometrySYS_2.dyf](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn)
 
-### Sample Output & Design Generation Step:
+### Sample Output:
 <p align="center">
 <img src="https://julianzaraza.page.link/genghg-thumbnail" width=50% height=50%>
-</p>
-
-<p align="center">
-<img src="https://julianzaraza.page.link/genghg-design-generation" width=50% height=50%>
 </p>
 
