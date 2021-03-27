@@ -2,14 +2,14 @@
 Generative Design Tool to Reduce Embodied GHG Emissions in High-Rise Residential Buildings.
 This work was developed as part of a M.A.Sc. thesis in Civil Engineering at the University of Toronto by Julian Zaraza. The thesis was supervised by Prof. Daniel Posen and Prof. Brenda McCabe. The author acknowledges the support of EllisDon, BASF Canada and WSP, as well as matching funds from the Natural Sciences Research Council of Canada (CRDPJ 508960) and the Ontario Centres of Excellence (TargetGHG 27943).
 
-![GenGHG Banner](https://www.dropbox.com/s/5lsjhh7ih4tbfdg/2020.12.28%20Github%20Banner%202.png?raw=1)
+![GenGHG Banner](https://julianzaraza.page.link/github-banner)
 
 # How to use GenGHG?
 The main Dynamo graph is [20200817_GenGHG_457_core.dyn](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn). Make sure you download and install all [dependencies](https://github.com/julianzpe/GenGHG#dependencies), [third-party packages](https://github.com/julianzpe/GenGHG#packages-list), and [custom nodes](https://github.com/julianzpe/GenGHG#custom-nodes). Also, make sure your computer recognizes the path of both the 1. Site Conditions and 2. CSV Imports folders. To achieve that, create those two folders within the folder where the main Dynamo file lives (i.e. GenGHG_457_core.dyn). For methodology questions please refer to the project's public thesis or publications (search in  [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction) and look for Julian Zaraza as main author).
 
 * The following is a screen capture of the entire GenGHG Dynamo graph broken down by functionality. Please note that the Geometry System step is condensed into a single custom node which is available to download in the [custom nodes section](https://github.com/julianzpe/GenGHG#custom-nodes) of this repository.
 
-![GenGHG Full Dynamo Graph](https://www.dropbox.com/s/jd1geft4jgi0p82/Dynamo%20Full%20Graph.png?raw=1)
+![GenGHG Full Dynamo Graph](https://julianzaraza.page.link/genghg-summary)
 
 # Required files
 ## Site Conditions Files
@@ -37,7 +37,7 @@ Download from [2. CSV Imports](https://github.com/julianzpe/GenGHG/tree/master/2
 - material_estimates.csv: Normalized estimates for concrete (in cubic meters/volume of building space in cubic meters) and rebar (in metric tons or Mg per Mg of concrete).
 
 <p align="center">
-  <img src="https://www.dropbox.com/s/p9pl0fazjom6a2v/2020.12.28%20GenGHG%20GIF.gif?raw=1">
+  <img src="https://julianzaraza.page.link/genghg-sitecond-gif">
 </p>
 
 # Dependencies
@@ -66,7 +66,7 @@ Copy all packages into your local Dynamo installation or download each of them d
 - Download from [GenGHG_GeometrySYS_2.dyf](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn)
 
 <p align="center">
-<img src="https://www.dropbox.com/s/535161oyug4u0zp/GenGHG_thumbnail.png?raw=1" width=50% height=50%>
+<img src="https://julianzaraza.page.link/genghg-thumbnail" width=50% height=50%>
 </p>
 
 
