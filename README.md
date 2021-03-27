@@ -11,13 +11,6 @@ The main Dynamo graph is [20200817_GenGHG_457_core.dyn](https://github.com/julia
 
 ![GenGHG Full Dynamo Graph](https://julianzaraza.page.link/genghg-summary)
 
-# Design Generation Sample
-This study proposes a novel geometry system for the generation of realistic, modern-looking, tall residential building shapes. The steps of the system are described in the paper published in the journal Autom. in Construction. The steps are a series of geometric operations that through translation, intersection, subdivision, and extrusion, are able to generate a building shape in one iteration. The steps are the result of several experimental tests for achieving a desired level of aesthetics and geometric variability within the shapes produced, and are based on the conceptual design assumptions. These assumptions are critical to frame the structure of the geometry system. These include architectural and geometric considerations that dictate the sections that are fixed and the ones that vary. For instance, it is provided that the tower shape may vary in geometry as long as it does so within the site boundary. In contrast, the podium and underground section are assumed to preserve the shape of the site, as this is common practice in downtown Toronto high-rise buildings since developers are bounded to maximize lot use. 
-
-<p align="center">
-<img src="https://julianzaraza.page.link/genghg-design-generation" width=50% height=50%>
-</p>
-
 # Required files
 ## Site Conditions Files
 Download from [1. Site Conditions](https://github.com/julianzpe/GenGHG/tree/master/1.%20Site%20Conditions)
@@ -32,6 +25,10 @@ The previous four .OBJ files contain the information that describes the surround
 - 20200312_Massings_SemiDetailed.obj: Contains a simplified mesh for each of the site's surrounding buildings. Used for intersection calculations which is part of the views analysis. 
 
 - 20200405_Site-Conditions_Massings_5.obj: Contains detailed mesh of surrounding buildings for visualization purposes only
+
+<p align="center">
+<img src="https://julianzaraza.page.link/genghg-thumbnail" width=50% height=50%>
+</p>
 
 ## CSV Imports
 Download from [2. CSV Imports](https://github.com/julianzpe/GenGHG/tree/master/2.%20CSV%20Imports)
@@ -69,11 +66,12 @@ Copy all packages into your local Dynamo installation or download each of them d
 - Clockwork for Dynamo 2.x (v2.3.0)
 - Topologic (v1.0.0)
 
-### Custom Nodes:
+### Design Generation Module (Custom Node):
 - Download from [GenGHG_GeometrySYS_2.dyf](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn)
 
-### Sample Output:
+This study proposes a novel geometry system for the generation of realistic, modern-looking, tall residential building shapes. The steps of the system are described in the paper published in the journal Autom. in Construction. The steps are a series of geometric operations that through translation, intersection, subdivision, and extrusion, are able to generate a building shape in one iteration. The steps are the result of several experimental tests for achieving a desired level of aesthetics and geometric variability within the shapes produced, and are based on the conceptual design assumptions. These assumptions are critical to frame the structure of the geometry system. These include architectural and geometric considerations that dictate the sections that are fixed and the ones that vary. For instance, it is provided that the tower shape may vary in geometry as long as it does so within the site boundary. In contrast, the podium and underground section are assumed to preserve the shape of the site, as this is common practice in downtown Toronto high-rise buildings since developers are bounded to maximize lot use. 
+
 <p align="center">
-<img src="https://julianzaraza.page.link/genghg-thumbnail" width=50% height=50%>
+<img src="https://julianzaraza.page.link/genghg-design-generation" width=50% height=50%>
 </p>
 
