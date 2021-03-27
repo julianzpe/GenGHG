@@ -65,8 +65,12 @@ Copy all packages into your local Dynamo installation or download each of them d
 ### Custom Nodes:
 - Download from [GenGHG_GeometrySYS_2.dyf](https://github.com/julianzpe/GenGHG/blob/master/20200817_GenGHG_457_core.dyn)
 
+### Sample Output & Design Generation Step:
 <p align="center">
 <img src="https://julianzaraza.page.link/genghg-thumbnail" width=50% height=50%>
 </p>
 
+<p align="center">
+<img src="https://julianzaraza.page.link/genghg-design-generation" width=50% height=50%>
+</p>
 
